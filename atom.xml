@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>江矿叔叔的博客.</title>
+  <id>https://joname1.github.io</id>
+  <updated>2018-04-14T15:17:20Z</updated>
+  <subtitle>Just be nice, always think twice!</subtitle>
+  <link href="https://joname1.github.io"></link>
+  <author>
+    <name>江矿叔叔的博客.</name>
+  </author>
+  <entry>
+    <title>React Native爬坑之路 03 State</title>
+    <updated>2018-03-25T12:00:00+08:00</updated>
+    <id>tag:joname1.github.io,2018-03-25:/react-native-state.html</id>
+    <link href="https://joname1.github.io/react-native-state.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;React native的组件可以通过两种方式进行状态控制，一种是Props用来设置不会改变的数据，另一种就是State，用来设置会变换的数据。State相当重要，所有的UI界面变化都离不开State。&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>江矿叔叔.</name>
+    </author>
+  </entry>
+  <entry>
+    <title>React Native爬坑之路 02 Props</title>
+    <updated>2018-03-23T12:00:00+08:00</updated>
+    <id>tag:joname1.github.io,2018-03-23:/react-native-props.html</id>
+    <link href="https://joname1.github.io/react-native-props.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Props是组件自身的属性，一般用于嵌套的内外层组件中，负责传递信息（通常由父层组件向子层组件传递）。&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>江矿叔叔.</name>
+    </author>
+  </entry>
+  <entry>
+    <title>React Native爬坑之路 01 生命周期</title>
+    <updated>2018-03-22T12:00:00+08:00</updated>
+    <id>tag:joname1.github.io,2018-03-22:/react-native-lifecycle.html</id>
+    <link href="https://joname1.github.io/react-native-lifecycle.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;与Activity类似，React Native（RN） 中的组件也有生命周期（Lifecycle）。所谓生命周期，就是一个对象从开始生成到最后消亡所经历的状态，理解生命周期，是合理开发的关键。&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>江矿叔叔.</name>
+    </author>
+  </entry>
+  <entry>
+    <title>React 组件之间交流</title>
+    <updated>2018-01-20T21:00:00+08:00</updated>
+    <id>tag:joname1.github.io,2018-01-20:/react-component-communicate.html</id>
+    <link href="https://joname1.github.io/react-component-communicate.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;今天群里面有很多都在讨论关于 React 组件之间是如何通信的问题，之前自己写的时候也遇到过这类问题。&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>江矿叔叔.</name>
+    </author>
+  </entry>
+  <entry>
+    <title>React 组件开发入门</title>
+    <updated>2018-01-18T21:00:00+08:00</updated>
+    <id>tag:joname1.github.io,2018-01-18:/induction-react-component.html</id>
+    <link href="https://joname1.github.io/induction-react-component.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;熟悉 React 的思想后，我们先来尝试开发一个单纯的小组件，可以对比一下是不是比以前的开发模式更加舒适了。&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>江矿叔叔.</name>
+    </author>
+  </entry>
+  <entry>
+    <title>理(瞎)解(说) async/await</title>
+    <updated>2018-01-10T14:00:00+08:00</updated>
+    <id>tag:joname1.github.io,2018-01-10:/async-await.html</id>
+    <link href="https://joname1.github.io/async-await.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;刚出来不久的 ES8 包含了 async 函数，它的出现，终于让 JavaScript 对于异步操作有了终极解决方案。No more callback hell。&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>江矿叔叔.</name>
+    </author>
+  </entry>
+</feed>
